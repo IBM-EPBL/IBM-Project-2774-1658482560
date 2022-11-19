@@ -1,12 +1,14 @@
 # IBM-Project-2774-1658482560
 Classification of Arrhythmia by Using Deep Learning with 2-D ECG Spectral Image Representation
 
+Team id - PNT2022TMID00644
+
 Team Members
 
 1) Nivedha.U (Team leader) - 211419104185
-2) Dhuneesha.E - 211419104066
-3) Divya.S - 211419104072
-4) Preethi.B - 211419104200
+2) Dhuneesha.E (Team Member 1) - 211419104066
+3) Divya.S (Team Member 2) - 211419104072
+4) Preethi.B (Team Member 3) - 211419104200
 
 Project Description
 
